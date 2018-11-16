@@ -1,3 +1,5 @@
+extern crate notify;
+
 fn main() {
-    println!("Hello, world!");
+    
 }
