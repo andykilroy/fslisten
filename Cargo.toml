@@ -5,3 +5,4 @@ authors = ["Andrew Kilroy <7545475+andykilroy@users.noreply.github.com>"]
 
 [dependencies]
 notify = "4.0"
+clap = "2.32.0"
